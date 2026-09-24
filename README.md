@@ -1,9 +1,9 @@
-# R7 Film Skills
+# Film Skills
 
-R7 影片工作台的**官方方法库种子**：给画布智能体（视频解析、续写剧本、分镜出图等）挂接的可复用 Skill 正文。
+影片工作台（film canvas）的**官方方法库种子**：给画布智能体（视频解析、续写剧本、分镜出图、角色定妆锁定等）挂接的可复用 Skill 正文。
 
 - 格式见 [FORMAT.md](./FORMAT.md)
-- 开源参考来源见 [SOURCES.md](./SOURCES.md)（只借结构，正文为 R7 原创）
+- 开源参考来源见 [SOURCES.md](./SOURCES.md)（只借结构，正文为本仓库原创）
 - Skill 索引见 [skills/README.md](./skills/README.md)
 
 ## 和产品的关系
