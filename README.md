@@ -16,16 +16,19 @@
 
 当前仓库是**内容种子**，不含 Nest/Next 接线代码。
 
-## P0（已收录）
+## 已收录
 
 1. `video-parse` — 爆款视频解析
 2. `script-continue` — 跟拍续写剧本
-3. `shot-image` — 分镜卡出图
-4. `character-lock` — 角色定妆锁定
+3. `beat-board` — 分镜节奏法
+4. `shot-image` — 分镜卡出图
+5. `character-lock` — 角色定妆锁定
+6. `director-lens` — 镜头语言导演（方法来自导演技能的分阶段与质检，正文为改写）
+7. `shortfilm-prompt` — 短片视频提示（方法来自五段式短片提示，正文为改写）
 
-## 规划中（P1）
+## 规划中
 
-镜头语言导演、短视频节奏 — 见 skills 索引，正文后补。
+短视频节奏（`shortform-rhythm`）— 见 skills 索引，正文后补。
 
 ## License
 
